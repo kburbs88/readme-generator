@@ -36,7 +36,7 @@ This project is licensed under ${data.license}.
 
 ## Questions
 For questions, contact ${data.username} at ${data.email}. 
-My GitHub link is ${data.gitHubLink} . I can also be contacted here.`
+My GitHub link is ${data.gitHubLink} . I can also be contacted at (999)-999-9999.`
 ;
 }
 

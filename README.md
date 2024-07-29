@@ -11,11 +11,10 @@ This project was created to provide the user with an application that allows the
 - [Questions](#questions)
 
 ## Installation
-To install this project, desired users should access the npm library and install README-GENERATOR package as a developer dependency.
-
+To install this project, desired users should access the npm library and install README-GENERATOR package as a developer dependency. Here is the link to the NPM Library: <a href="https://www.npmjs.com">npmjs.com</a>
 ## Usage
 After installing this application, the user should type node index.js to initiate prompts. Prompts will ask the user to input appropriate information and add it to the corresponding section of the README file. Upon completion of prompts, a message stating "File created and content written successfully!" will be logged and a new README file will be generated with entered responses.
-An example of what the prompt should look like is included in the assets/images folder.
+An example of what the prompt should look like is as follows: <img src="assets/images/README-generator-prompt.png" alt="Screenshot of README prompts">
 
 ## License
 This project is licensed under MIT.
