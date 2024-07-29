@@ -75,10 +75,5 @@ function writeToFile(fileName, data) {
     });
 }
 
-
-//  a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-// TODO: Create a function to initialize app
-
-// Function call to initialize app
-init();
+init(); 
 
